@@ -12,7 +12,7 @@
 
 ---
 
-### About me
+### About Me
 
 An iOS developer at [Douban Inc.](https://www.douban.com/)
 
@@ -27,7 +27,7 @@ duyu1010@gmail.com | [豆瓣](https://www.douban.com/people/bigyelow/) | [linked
 ---
 
 
-### My `.app` domains
+### My `.app` Domains
 
 If you are interested in any of them, contact me please.
 
