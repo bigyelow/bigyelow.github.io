@@ -99,8 +99,7 @@ bitcode 出错。
 至此，我们又可以愉快的在 Xcode 8 下生活了😜。
 
 ---
-If you have any problems, send me email duyu1010@gmail.com or  [open an issue](https://github.com/bigyelow/bigyelow.github.io/issues/new) please.
-           
+If you have any problems, email to duyu1010@gmail.com or  [open an issue](https://github.com/bigyelow/bigyelow.github.io/issues/new) please.
 	
 	
 

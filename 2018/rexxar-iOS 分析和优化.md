@@ -127,4 +127,4 @@ frodo 中处理 404：发生 RXRLogTypeNoLocalHTMLForURI 且加载 `remote url` 
 - 测试中...
 
 ---
-If you have any problems, send me email duyu1010@gmail.com or  [open an issue](https://github.com/bigyelow/bigyelow.github.io/issues/new) please.
+If you have any problems, email to duyu1010@gmail.com or  [open an issue](https://github.com/bigyelow/bigyelow.github.io/issues/new) please.

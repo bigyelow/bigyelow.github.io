@@ -21,3 +21,6 @@
 Stay hungry, stay foolish，像乔老爷短暂而又充满价值的56年人生致敬！
 
 > 以上纯属个人观点，个中之言碎语、人生扯淡仅用来打发“时间”。本人大学开始就没学过语文了，文中用词不当、表达不清之处忘海涵。此文仅备忘提醒之用。
+
+---
+If you have any problems, email to duyu1010@gmail.com or  [open an issue](https://github.com/bigyelow/bigyelow.github.io/issues/new) please.

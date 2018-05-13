@@ -187,4 +187,4 @@ recall:
 5. 【书影音 tab】一般到10个左右的 segments 就会开始出现 terminate 回调；而 https://m.douban.com 差不多要到20个左右
 
 ---
-If you have any problems, send me email duyu1010@gmail.com or  [open an issue](https://github.com/bigyelow/bigyelow.github.io/issues/new) please.
+If you have any problems, email to duyu1010@gmail.com or  [open an issue](https://github.com/bigyelow/bigyelow.github.io/issues/new) please.
