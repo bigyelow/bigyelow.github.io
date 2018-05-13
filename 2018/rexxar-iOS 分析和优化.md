@@ -1,5 +1,3 @@
-Back to [Home](https://bigyelow.github.io)
-
 # rexxar-iOS 分析和优化
 
 项目地址：[rexxar-iOS](https://github.com/bigyelow/rexxar-ios)

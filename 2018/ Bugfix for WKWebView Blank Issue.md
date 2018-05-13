@@ -1,5 +1,3 @@
-Back to [Home](https://bigyelow.github.io)
-
 # Bugfix for WKWebView Blank Issue
 
 > 该问题是在 豆瓣App iOS 版本（<= 5.22.0）上发现的
