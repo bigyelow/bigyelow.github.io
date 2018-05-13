@@ -1,6 +1,6 @@
 ## About me
 
-An iOS developer at [Douban Inc.](https://www.douban.com/) 
+An iOS developer at [Douban Inc.](https://www.douban.com/)
 
 #### App
 
@@ -10,12 +10,7 @@ An iOS developer at [Douban Inc.](https://www.douban.com/)
 
 #### Contact
 
-duyu1010@gmail.com |
-[豆瓣](https://www.douban.com/people/bigyelow/) |
-[linkedin](https://www.linkedin.com/in/%E6%9D%9C%E7%85%9C-%E9%BB%84-50b423b6?trk=nav_responsive_tab_profile_pic) |
-[github](https://github.com/bigyelow) |
-[twitter](https://twitter.com/bigyelow) |
-[facebook](https://www.facebook.com/duyu.huang.5)
+duyu1010@gmail.com | [豆瓣](https://www.douban.com/people/bigyelow/) | [linkedin](https://www.linkedin.com/in/%E6%9D%9C%E7%85%9C-%E9%BB%84-50b423b6?trk=nav_responsive_tab_profile_pic) | [github](https://github.com/bigyelow) | [twitter](https://twitter.com/bigyelow) | [facebook](https://www.facebook.com/duyu.huang.5)
 
 * * *
 
@@ -31,46 +26,47 @@ duyu1010@gmail.com |
 *   09-29 [Xcode 8 下使用 xcodebuild 打包 App](https://github.com/bigyelow/bigyelow.github.io/blob/master/2016/Xcode%208%20%E4%B8%8B%E4%BD%BF%E7%94%A8%20xcodebuild%20%E6%89%93%E5%8C%85%20App.md)
 
 * * *
+
 ## Owned .app domains
 
 If you are interested in any of them, contact me please.
 
-- gotokeep.app
-- tangeche.app
-- zuimeitianqi.app
-- mtrue.app
-- zuimeia.app
-- starmakerstudios.app
-- bearychat.app
-- gofun.app
-- ftchinese.app
-- igetget.app
-- meican.app
-- everysing.app
-- niubility.app
-- dijkstra.app
-- gasbuddy.app
-- zybang.app
-- wanninli.app
-- bluebird.app
-- kuaikanmanhua.app
-- bookingholdings.app
-- iyunche.app
-- pphelp.app
-- mmmono.app
-- autoplay.app
-- huoshanzhibo.app
-- munchery.app
-- bitcoinworld.app
-- 91helper.app
-- umetrip.app
-- easou.app
-- tangshengyun.app
-- wepiao.app
-- bearyinnovative.app
-- yokee.app
-- autodrive.app
-- hip-hop.app
-- easydo.app
-- dushemovie.app
-- nuvid.app
+*   gotokeep.app
+*   tangeche.app
+*   zuimeitianqi.app
+*   mtrue.app
+*   zuimeia.app
+*   starmakerstudios.app
+*   bearychat.app
+*   gofun.app
+*   ftchinese.app
+*   igetget.app
+*   meican.app
+*   everysing.app
+*   niubility.app
+*   dijkstra.app
+*   gasbuddy.app
+*   zybang.app
+*   wanninli.app
+*   bluebird.app
+*   kuaikanmanhua.app
+*   bookingholdings.app
+*   iyunche.app
+*   pphelp.app
+*   mmmono.app
+*   autoplay.app
+*   huoshanzhibo.app
+*   munchery.app
+*   bitcoinworld.app
+*   91helper.app
+*   umetrip.app
+*   easou.app
+*   tangshengyun.app
+*   wepiao.app
+*   bearyinnovative.app
+*   yokee.app
+*   autodrive.app
+*   hip-hop.app
+*   easydo.app
+*   dushemovie.app
+*   nuvid.app
