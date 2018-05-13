@@ -1,4 +1,4 @@
-Goto [Introduction](https://bigyelow.github.io)
+Back to [Home](https://bigyelow.github.io)
 
 # Bugfix for WKWebView Blank Issue
 

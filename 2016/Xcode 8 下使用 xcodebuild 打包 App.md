@@ -1,4 +1,4 @@
-Goto [Introduction](https://bigyelow.github.io)
+Back to [Home](https://bigyelow.github.io)
 
 # Xcode 8 下使用 xcodebuild 打包 App 
 之前我们的项目一直使用 Xcode 7 来打包项目，用 Cocoapods 来管理第三方库。最近我们升级到了 Xcode 8 并且由于**模块化**的需要，需要将部分 Swift 或者 OC+Swift 混编的代码抽出去成为单独的库，所以需要使用 Cocoapods 的 use_frameworks! 特性将包含了 Swift 源文件的库引用进来，这期间遇到了不少问题，在这里梳理下处理的办法以供他人参考。
