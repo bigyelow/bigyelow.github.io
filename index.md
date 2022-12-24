@@ -14,9 +14,9 @@
 
 ---
 
-# About Me
+# About me
 
-I'm an engineering manager at Airbnb, live in Beijing. Mostly focus on mobile development.
+I'm an engineering manager at Airbnb living in Beijing. I mostly focus on mobile development.
 
 ## Contact
 duyu1010@gmail.com | [豆瓣](https://www.douban.com/people/bigyelow/) | [linkedin](https://www.linkedin.com/in/dewey-huang-50b423b6/) | [github](https://github.com/bigyelow) | [twitter](https://twitter.com/bigyelow) | [facebook](https://www.facebook.com/duyu.huang.5)
