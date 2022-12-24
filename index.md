@@ -1,5 +1,8 @@
 
 # Contents
+## 2022
+- 12-24 [从 free speech 说起](./2022/thoughts_on_free_speech.md)
+
 ## 2019
 - 07-16 [WWDC 2019](./2019/WWDC2019.md)
 
